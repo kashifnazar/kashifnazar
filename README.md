@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kashifnazar
-- 👀 I’m interested in job opportunities, networking, contributing
+- 👀 I’m interested in job opportunities, networking, contributing on Open Source.
 - 💞️ I’m looking to collaborate on projects on React and Node
 - 🌱 I’m currently learning Data Science
 - 🌎 You can find me on www.kashifnazar.com

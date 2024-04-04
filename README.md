@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Fullstack Engineer
 -------------------------
 
-A passionate Software Engineer with 16+ years of experience working on several projects. I have worked extensively with React, Typescript, Node JS, GraphQL, Java and AWs.
+A passionate Software Engineer with 16+ years of experience working on several projects. I have worked extensively with React, Typescript, Node JS, GraphQL, Java and AWS.
 
 * ✉️  You can contact me at [muhammad.kashif.nazar@gmail.com](mailto:muhammad.kashif.nazar@gmail.com)
 * 👍  I'm extremely good with Typescript

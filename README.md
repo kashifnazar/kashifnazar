@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Kashif Nazar
 =============================================================================================================================================
 
-Senior Fullstack Engineer
+Software Engineer
 -------------------------
 
 A passionate Software Engineer with 16+ years of experience working on several projects. I have worked extensively with React, Typescript, Node JS, GraphQL, Java and AWS.

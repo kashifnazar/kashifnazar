@@ -9,7 +9,7 @@ A passionate Software Engineer with 16+ years of experience working on several p
 * ✉️  You can contact me at [muhammad.kashif.nazar@gmail.com](mailto:muhammad.kashif.nazar@gmail.com)
 * 👍  I'm extremely good with Typescript
 * 🧠  I'm learning React Native
-* 🤝  I'm open to collaborating on React and React Native
+* 🤝  I'm open to collaborating on React, Next and React Native
 
 ### Skills
 
